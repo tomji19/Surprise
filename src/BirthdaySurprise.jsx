@@ -171,10 +171,10 @@ const BirthdaySurprise = () => {
         >
           <div className="bg-mint-700 p-8 rounded-2xl border-4 border-mint-300 shadow-2xl max-w-md">
             <h2 className="text-mint-100 text-3xl font-bold text-center mb-4">
-              Thank You! ❤️
+              Shukran ya Ro7 Alby ❤️
             </h2>
             <p className="text-mint-200 text-lg text-center">
-              I can't wait to spend this special day with you!
+              7afdal mestany el youm dah yegy b fare8 el sabr walahi
             </p>
           </div>
         </motion.div>
